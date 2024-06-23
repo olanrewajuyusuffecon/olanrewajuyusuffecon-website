@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/olayusuff14
+    - icon: github
+      text: Github
+      href: https://github.com/olanrewajuyusuffecon
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/
+    - icon: envelope
+      text: Email
+      href: "mailto:oyusuff4@student.gsu.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a Ph.D. student at Georgia State University. My research interests are in Health Economics, Public Economics, and Development Economics. I am specifically interested in healthcare utilization caused by health insurance and social programs and identifying the effects of healthcare use on health outcomes. 
+
+
+
